@@ -1,5 +1,7 @@
 # Hi there! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights for the development of next-gen therapies.
 
