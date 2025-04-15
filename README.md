@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Charlie Barker, Ph.D. — a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
+I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights for the development of next-gen therapies."
 
 ## 🧠 About Me
@@ -18,7 +18,7 @@ My passions lie in translating complex data into actionable insights for the dev
 ## 🧪 Current Projects
 
 - 🧩 **Multi-omics network integration**  
-  Building signalling networks from genomics, transcriptomics, and proteomics data to understand therapy-induced reprogramming in melanoma.
+Building signalling networks from genomics, transcriptomics, and proteomics data to understand therapy-induced reprogramming in melanoma.
 
 - 🧬 **NSCLC therapy prediction model**
 A mechanistic in silico model of oncogenic signalling (EGFR, AKT, JAK/STAT, WNT) to simulate drug and radiotherapy responses in NSCLC. Identified resistance mechanisms, novel targets (e.g. 53BP1), and a 19-gene signature for patient stratification.
