@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
-My passions lie in translating complex data into actionable insights for the development of next-gen therapies."
+My passions lie in translating complex data into actionable insights for the development of next-gen therapies.
 
 ## 🧠 About Me
 
