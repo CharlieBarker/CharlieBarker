@@ -3,7 +3,6 @@
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights for the development of next-gen therapies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlieBarker&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ## 🧠 About Me
 
@@ -47,4 +46,31 @@ Integrated RNA-seq and imaging data to uncover how cell shape relates to transcr
 - 🎓 Instructor for Multi-Omics, Statistics for Bioinformatics  
 - 👨‍🎓 Supervised BSc students, interns, and MSc thesis evaluation  
 
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+      <summary><h3>Languages</h3></summary>
+      <p align="center">
+        <a href="https://github.com/CharlieBarker">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieBarker&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="CharlieBarker :: overall Top Langs" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/CharlieBarker">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CharlieBarker&theme=gruvbox&layout=compact&hide_border=true"
+          alt="CharlieBarker :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CharlieBarker&theme=gruvbox&layout=compact&hide_border=true"
+          alt="CharlieBarker :: Top Langs by commit" />
+        </a>
+      </p>
+    </details>
+  </samp>
+  </div>
+</details>
 
