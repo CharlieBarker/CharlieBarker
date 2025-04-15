@@ -3,6 +3,8 @@
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights for the development of next-gen therapies.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CharlieBarker&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+
 ## 🧠 About Me
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
