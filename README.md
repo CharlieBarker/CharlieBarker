@@ -1,16 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Charlie;A+researcher+in+computational+cancer+biology)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Charlie;A+researcher+in+computational+cancer+biology">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nextflow-3B0F70?style=flat-square&logo=nextflow&logoColor=white">
+</p>
+
 
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights for the development of next-gen therapies.
 
-
 ## 🧠 About Me
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Nextflow](https://img.shields.io/badge/-Nextflow-3B0F70?style=flat-square&logo=nextflow&logoColor=white)
 
 - 🔬 Research Fellow, UCL — Computational models for cancer therapies  
 - 🧬 Ph.D., EMBL-EBI / University of Cambridge — Network-based modelling of signalling  
