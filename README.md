@@ -16,6 +16,18 @@
 I'm Charlie Barker, a researcher in **computational cancer biology** with deep expertise in integrative multi-omics analysis and predictive modelling.
 My passions lie in translating complex data into actionable insights and creating compelling intuitive visualisions of data.
 
+<p align="center">
+  <img src="https://github.com/CharlieBarker/biotubemapR/blob/main/graphics/tfl_animation.gif?raw=true" alt="TFL usage animation">
+</p>
+
+<p align="center">
+  <em>
+    TFL usage data visualised using my package 
+    <a href="https://github.com/CharlieBarker/biotubemapR">biotubemapR</a>
+  </em>
+</p>
+
+
 ## 🧠 About Me
 
 - 🔬 Research Fellow, UCL — Computational models for cancer therapies  
