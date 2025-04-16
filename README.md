@@ -33,12 +33,6 @@ A mechanistic in silico model of oncogenic signalling (EGFR, AKT, JAK/STAT, WNT)
 - 🦠 **Morphology-informed signalling in breast cancer**
 Integrated RNA-seq and imaging data to uncover how cell shape relates to transcriptomic and signalling changes in breast cancer. Identified novel regulatory networks involving WNT, Notch, and RAP1–NF-kB signalling that mediate mechanical sensing and epithelial-to-mesenchymal transition.
 
-## 📄 Selected Publications
-
-1. *Predicting Personalised Therapeutic Combinations in Non-Small Cell Lung Cancer Using In Silico Modelling* — bioRxiv, 2025  
-2. *ARID1A-induced Transcriptional Reprogramming in Melanoma* — bioRxiv, 2024  
-3. *Phenotype-Specific Networks from Gene Expression and Cell Shape* — *Genome Research*, 2022  
-
 ## 🛠️ Skills Snapshot
 
 - **Computational**: Python, R, Bash, Git, HPC, PyTorch, Nextflow  
@@ -46,10 +40,5 @@ Integrated RNA-seq and imaging data to uncover how cell shape relates to transcr
 - **Modelling**: Network inference, machine learning, survival modelling  
 - **Data**: TCGA, CPTAC, Multi-omics harmonisation  
 
-## 🎤 Teaching & Talks
-
-- 🧑‍🏫 Keynote @ EMBL-EBI Big Datasets Course  
-- 🎓 Instructor for Multi-Omics, Statistics for Bioinformatics  
-- 👨‍🎓 Supervised BSc students, interns, and MSc thesis evaluation  
 
 
