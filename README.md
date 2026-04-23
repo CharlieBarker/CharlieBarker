@@ -26,31 +26,3 @@ My passions lie in translating complex data into actionable insights and creatin
     <a href="https://github.com/CharlieBarker/biotubemapR">biotubemapR</a>
   </em>
 </p>
-
-
-## 🧠 About Me
-
-- 🔬 Research Fellow, UCL — Computational models for cancer therapies  
-- 🧬 Ph.D., EMBL-EBI / University of Cambridge — Network-based modelling of signalling  
-- 👨‍🏫 Instructor, Keynote speaker, and student supervisor
-
-## 🧪 Current Projects
-
-- 🧩 **Multi-omics network integration**  
-Building signalling networks from genomics, transcriptomics, and proteomics data to understand therapy-induced reprogramming in melanoma.
-
-- 🧬 **NSCLC therapy prediction model**
-A mechanistic in silico model of oncogenic signalling (EGFR, AKT, JAK/STAT, WNT) to simulate drug and radiotherapy responses in NSCLC. Identified resistance mechanisms, novel targets (e.g. 53BP1), and a 19-gene signature for patient stratification.
-
-- 🦠 **Morphology-informed signalling in breast cancer**
-Integrated RNA-seq and imaging data to uncover how cell shape relates to transcriptomic and signalling changes in breast cancer. Identified novel regulatory networks involving WNT, Notch, and RAP1–NF-kB signalling that mediate mechanical sensing and epithelial-to-mesenchymal transition.
-
-## 🛠️ Skills Snapshot
-
-- **Computational**: Python, R, Bash, Git, HPC, PyTorch, Nextflow  
-- **Omics**: Proteomics (MS, RPPA), Transcriptomics (NGS), Genomics (SNPs, CNVs)  
-- **Modelling**: Network inference, machine learning, survival modelling  
-- **Data**: TCGA, CPTAC, Multi-omics harmonisation  
-
-
-
